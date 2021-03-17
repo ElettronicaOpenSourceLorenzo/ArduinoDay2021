@@ -18,8 +18,8 @@ Il progetto consiste in un semplice sistema di comunicazione fra scheda ESP e ch
 
 #### &nbsp;
 
-### Dipendenze
-#### &nbsp;
+### Librerie necessarie
+
 Affinché tu possa dare vita ai tuoi sistemi IoT grazie a Telegram, sono necessarie le seguenti librerie:
 
 
@@ -30,9 +30,9 @@ Affinché tu possa dare vita ai tuoi sistemi IoT grazie a Telegram, sono necessa
 **- UniversalTelegramBot che puoi trovare in [questo repository per il download](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot);**
 #### &nbsp;
 ### Dipendenze esterne
-#### &nbsp;
 Come spiegato nelle lezioni, *è necessario creare un chatbot Telegram tramite BotFather*.
-Maggiori informazioni e dettagli *possono essere trovati **[qui*(https://core.telegram.org/bots)**. *
+Maggiori informazioni e dettagli *possono essere trovati **[qui*(https://core.telegram.org/bots)**. 
+#### &nbsp;
 *L'utilizzo di questi script segue le regole espresse dalla **"GNU General Public License 3"**.
 Maggiori informazioni sono disponibili [qui](https://www.gnu.org/licenses/gpl-3.0.html)*.
 
